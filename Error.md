@@ -1,1 +1,0 @@
-Automatic Ruby environment activation with asdf failed: Unexpected token '/', "/bin/sh: 2"... is not valid JSON
