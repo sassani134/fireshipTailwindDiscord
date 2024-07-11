@@ -43,3 +43,6 @@ Ressources supplémentaires
 Documentation de Rails sur les composants React : https://github.com/reactjs/react-rails
 Documentation de Webpack pour React : https://stackoverflow.com/questions/48395804/where-is-create-react-app-webpack-config-and-files
 Tutoriel sur la création d'une application React avec Rails et Vite : https://www.youtube.com/watch?v=koiHRY8Be1A
+
+
+https://legacy.reactjs.org/docs/rendering-elements.html
